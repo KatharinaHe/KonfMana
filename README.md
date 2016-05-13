@@ -1,0 +1,2 @@
+# KonfMana
+blabla
